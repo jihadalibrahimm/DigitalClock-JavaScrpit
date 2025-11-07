@@ -11,7 +11,7 @@ A simple digital clock implementation using HTML, CSS, and JavaScript.
 - Automatically updates every second to reflect the current time.
 
 ## Preview
-[[live Preview](https://jihado-i.github.io/DigitalClock-JavaScrpit/)]
+[[live Preview](https://jihadalibrahimm.github.io/DigitalClock-JavaScrpit/)]
 
 ## Installation
 
